@@ -1,4 +1,13 @@
 <!-- markdownlint-disable -->
+
+> **This repository has moved to GitHub.**
+>
+> The project is now maintained at
+> [AdGuardSoftwareLimited/ext-vscode-adblock-syntax][new-repo].
+> Please use GitHub for the latest code, issues, and pull requests.
+
+[new-repo]: https://github.com/AdGuardSoftwareLimited/ext-vscode-adblock-syntax
+
 <div align="center">
 
 <img alt="AGLint" src="https://cdn.adguard.com/website/github.com/AGLint/aglint_512x512.png" width="128px">
